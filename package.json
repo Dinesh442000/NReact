@@ -1,0 +1,30 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Dinesh learning reactjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinesh442000/NReact.git"
+  },
+  "keywords": [],
+  "author": "Dinesh Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinesh442000/NReact/issues"
+  },
+  "homepage": "https://github.com/Dinesh442000/NReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
